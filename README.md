@@ -125,4 +125,6 @@
 
 ## Attachments
 
-- Rendered view for a personal Minecraft Paper server (with plugins) that I hosted in a Google Cloud Platform instance (webpage deployed in Netlify):  <https://sakuracraftviewer.netlify.app>
+- Rendered view for a personal [Minecraft PaperMC](https://papermc.io) server (with plugins) that I hosted in a Google Cloud Platform instance (webpage deployed in Netlify): <https://sakuracraftviewer.netlify.app>
+- University project for a house renting web application I made with another 4 classmates using FastAPI, which I deployed using Deta (now "[Deta Space](https://deta.space)"): <https://rentnite.deta.dev> ([View on GitHub](https://github.com/pabenito/RentNite))
+- Very simple web application I made with FastAPI for generating initial D&D character stats, which I deployed using Deta Space: <https://dndstats-1-d3784121.deta.app> ([View on GitHub](https://github.com/asiernoide254/dndstats))
