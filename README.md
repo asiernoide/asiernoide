@@ -16,8 +16,6 @@ I tend to deeply explore systems, optimize workflows, and automate everything th
 
 <img title="CSS" style="padding-right:5px;" align="left" alt="CSS" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.21.0/icons/css3.svg"/>
 
-<img title="Sass" style="padding-right:5px;" align="left" alt="Sass" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.21.0/icons/sass.svg"/>
-
 <img title="Python" style="padding-right:5px;" align="left" alt="Python" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.21.0/icons/python.svg"/>
 
 <img title="Java" style="padding-right:5px;" align="left" alt="Java" width="35px" src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/java/java.png"/>
@@ -60,8 +58,6 @@ I tend to deeply explore systems, optimize workflows, and automate everything th
 
 <img title="MySQL" style="padding-right:10px;" align="left" alt="MySQL" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.21.0/icons/mysql.svg"/>
 
-<img title="JavaDB (Apache Derby)" style="padding-right:5px;" align="left" alt="ApacheDerby" width="35px" src="https://db.apache.org/derby/logo/final_derbylogo.svg"/>
-
 <img title="MongoDB" style="padding-right:5px;" align="left" alt="MongoDB" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.21.0/icons/mongodb.svg"/>
 
 <img title="Amazon Web Services" style="padding-right:5px;" align="left" alt="AWS" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.21.0/icons/amazonaws.svg"/>
@@ -103,23 +99,9 @@ I tend to deeply explore systems, optimize workflows, and automate everything th
 
 <img title="WordPress" style="padding-right:5px;" align="left" alt="WordPress" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.21.0/icons/wordpress.svg"/>
 
-<img title="Discord" style="padding-right:5px;" align="left" alt="Discord" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.21.0/icons/discord.svg"/>
-
-<img title="Telegram" style="padding-right:5px;" align="left" alt="Telegram" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.21.0/icons/telegram.svg"/>
-
-<img title="Google Meet" style="padding-right:5px;" align="left" alt="GoogleMeet" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.21.0/icons/googlemeet.svg"/>
-
-<img title="Microsoft Teams" style="padding-right:5px;" align="left" alt="MicrosoftTeams" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.21.0/icons/microsoftteams.svg"/>
-
 <img title="Netlify" style="padding-right:5px;" align="left" alt="Netlify" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.21.0/icons/netlify.svg"/>
 
 <img title="diagrams.net" style="padding-right:5px;" align="left" alt="diagrams.net" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.21.0/icons/diagramsdotnet.svg"/>
-
-<img title="Google Colab" style="padding-right:5px;" align="left" alt="GoogleColab" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.21.0/icons/googlecolab.svg"/>
-
-<img title="VirtualBox" style="padding-right:5px;" align="left" alt="VirtualBox" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.21.0/icons/virtualbox.svg"/>
-
-<img title="VMware" style="padding-right:5px;" align="left" alt="VMware" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.21.0/icons/vmware.svg"/>
 
 <br/>
 <br/>
