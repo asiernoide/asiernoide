@@ -1,4 +1,4 @@
-### Hello! My name is Asier. I'm a Software Engineering student at University of Málaga (4th grade)
+### Hello! My name is Asier. I'm a Software Engineer currently studying a Master's on Software Engineering and Artificial Intelligence at University of Malaga, looking for new oportunities to test my skills and learn something new.
 
 ## About me
 
